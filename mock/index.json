@@ -1,0 +1,77 @@
+{
+  "ret": true,
+  "data": {
+    "city": "北京",
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/66f201b7c7702f9d2d51a1aed86b9f8f.jpg_750x200_179821e4.jpg"
+    }, {
+      "id": "0002",
+      "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/87a224d0349d94a11e97f31aa1aba4f5.jpg_750x200_1f78af87.jpg"
+    }],
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "desc": "景点门票" }, {
+      "id": "0002",
+      "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+      "desc": "亲子游" }, {
+      "id": "0003",
+      "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+      "desc": "文化古迹" }, {
+      "id": "0004",
+      "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/97/02f5043b51b2102.png",
+      "desc": "牛首山" }, {
+      "id": "0005",
+      "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/b71c1387a921ccf9c6edc7e8def3da90.png",
+      "desc": "红山森林动物园" }, {
+      "id": "0006",
+      "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/94f7f5bf7b0f4d238dd68d718f102f40.png",
+      "desc": "中山陵" }, {
+      "id": "0007",
+      "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/f6dda1876c5950d83cc159c8fd522943.png",
+      "desc": "总统府" }, {
+      "id": "0008",
+      "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+      "desc": "银杏湖乐园" }, {
+      "id": "0009",
+      "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+      "desc": "大报恩寺" }, {
+      "id": "0010",
+      "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+      "desc": "南京海底世界"
+    }],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "https://imgs.qunarzz.com/sight/p0/201309/17/f8ca2f8885c7d329c8d65eac.jpg_200x200_75ec5d17.jpg",
+      "title": "周园",
+      "desc": "213条评论"
+    },{
+      "id": "0002",
+      "imgUrl": "https://imgs.qunarzz.com/sight/p0/1511/ea/eaf1bdc38aed9e6690.img.jpg_200x200_3032bf56.jpg",
+      "title": "银杏湖乐园",
+      "desc": "3431条评论"
+    },{
+      "id": "0003",
+      "imgUrl": "https://imgs.qunarzz.com/sight/p0/1907/df/dfe043ff2829f50ca3.img.jpg_200x200_6de74461.jpg",
+      "title": "南京海底世界",
+      "desc": "7343条评论"
+    }],
+    "weekendList": [{
+      "id": "0001",
+      "imgUrl": "https://imgs.qunarzz.com/sight/source/1505/f1/ae9d4299b8aaea.jpg_r_640x214_0c555905.jpg",
+      "title": "周园",
+      "desc": "213条评论"
+    },{
+      "id": "0002",
+      "imgUrl": "https://imgs.qunarzz.com/sight/source/1505/e1/cdbf56d837da59.jpg_r_640x214_105fc3f2.jpg",
+      "title": "银杏湖乐园",
+      "desc": "3431条评论"
+    },{
+      "id": "0003",
+      "imgUrl": "https://imgs.qunarzz.com/sight/source/1505/f3/d51669250308cc.jpg_r_640x214_7a127cd0.jpg",
+      "title": "南京海底世界",
+      "desc": "7343条评论"
+    }]
+  }
+}
