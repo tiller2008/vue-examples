@@ -13,6 +13,7 @@ module.exports = {
   chainWebpack (config) {
     config.resolve.alias
       .set('styles', resolve('src/assets/styles'))
+      .set('commons', resolve('src/commons'))
   },
   devServer: {
     port: 8080,
