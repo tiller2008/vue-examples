@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import Home from './views/home/Home.vue'
 import City from './views/city/City'
 import Detail from './views/detail/Detail'
+import Template from './views/example/Template'
 
 Vue.use(Router)
 
@@ -22,6 +23,11 @@ export default new Router({
       path: '/detail/:id',
       name: 'Detail',
       component: Detail
+    },
+    {
+      path: '/template',
+      name: 'Template',
+      component: Template
     }
   ],
   scrollBehavior (to, from, savedPosition) {
