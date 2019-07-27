@@ -4,6 +4,7 @@ import Home from './views/home/Home.vue'
 import City from './views/city/City'
 import Detail from './views/detail/Detail'
 import Template from './views/example/Template'
+import TestFormCreate from './views/example/TestFormCreate'
 
 Vue.use(Router)
 
@@ -28,6 +29,11 @@ export default new Router({
       path: '/template',
       name: 'Template',
       component: Template
+    },
+    {
+      path: '/formcreate',
+      name: 'Formcreate',
+      component: TestFormCreate
     }
   ],
   scrollBehavior (to, from, savedPosition) {

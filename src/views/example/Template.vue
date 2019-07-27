@@ -15,7 +15,7 @@
         <span>h5的标签在F12中的Vue中并不会显示</span>
       </template>
       <template>
-        <p>这里没有使用具名插槽，在SubItem中没有&lt;slot&gt;&lt;/slott&gt;时，这里不会显示</p>
+        <p>这里没有使用具名插槽，在SubItem中没有&lt;slot&gt;&lt;/slot&gt;时，这里不会显示</p>
         <SubItem>
           <template v-slot:a>
             <p>这是个递归的SubItem</p>
