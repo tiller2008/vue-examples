@@ -6,7 +6,7 @@
            :footer-hide="true"
            :styles="{width: 'fit-content','z-index': 'auto'}">
       <div style="max-width: 640px">
-        <form-create v-model="formData" :rule="rule" :option="option"></form-create>
+        <form-create :rule="rule" :option="option"></form-create>
       </div>
     </Modal>
   </div>
@@ -50,9 +50,9 @@ export default {
 
 <style scoped>
   @import url("//cdn.jsdelivr.net/npm/iview/dist/styles/iview.css");
-  >>> .ivu-modal-body {
-    /*position: relative;*/
-    max-height: 400px;
-    overflow-y: scroll;
-  }
+  /*>>> .ivu-modal-body {*/
+  /*  !*position: relative;*!*/
+  /*  max-height: 400px;*/
+  /*  overflow-y: scroll;*/
+  /*}*/
 </style>
